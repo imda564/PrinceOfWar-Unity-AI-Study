@@ -1,0 +1,23 @@
+{
+  "hero_1119": "player_king",
+  "unit_1123": "enemy_orc_war_rider",
+  "unit_1142": "enemy_orc_raider",
+  "unit_1238": "player_swordsman",
+  "unit_1240": "player_knight",
+  "unit_1330": "enemy_dark_ranger",
+  "unit_1342": "player_archer",
+  "unit_1396": "player_axeman",
+  "unit_1437": "player_elven_archer",
+  "unit_1523": "enemy_shadow_mage",
+  "unit_1592": "enemy_shaman",
+  "unit_1599": "player_cavalry",
+  "unit_1650": "enemy_stone_golem",
+  "unit_1754": "enemy_dark_knight",
+  "unit_1835": "player_healer",
+  "unit_1871": "enemy_red_dragon",
+  "unit_1938": "player_wizard",
+  "unit_1986": "enemy_green_dragon",
+  "unit_1996": "player_griffin",
+  "unit_2069": "enemy_black_dragon",
+  "unit_2118": "enemy_fire_golem"
+}

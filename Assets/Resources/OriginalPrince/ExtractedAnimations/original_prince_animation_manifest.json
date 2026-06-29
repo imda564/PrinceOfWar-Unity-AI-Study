@@ -1,0 +1,1584 @@
+{
+  "sourceSwf": "Original Prince of war/prince-of-war-328.swf",
+  "format": "Unity Resources image sequences extracted from original SWF timelines",
+  "stage": {
+    "width": 800,
+    "height": 400,
+    "frameRate": 24.0,
+    "rootFrameCount": 70
+  },
+  "unitsRootResourcePath": "OriginalPrince/ExtractedAnimations/Units",
+  "units": [
+    {
+      "id": "player_king",
+      "controllerSymbol": 1119,
+      "slots": [
+        "hero"
+      ],
+      "sides": [
+        "player"
+      ],
+      "containers": [
+        "root"
+      ],
+      "levels": [
+        "level1",
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level9",
+        "level10",
+        "level11",
+        "level12",
+        "level13",
+        "level14",
+        "level15",
+        "level16",
+        "level17",
+        "level18",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "idle",
+          "sourceSymbol": 716,
+          "sourceFrameCount": 19,
+          "frameCount": 19,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_king/idle",
+          "firstFrameSize": {
+            "width": 48,
+            "height": 42
+          }
+        },
+        {
+          "name": "move",
+          "sourceSymbol": 728,
+          "sourceFrameCount": 19,
+          "frameCount": 19,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_king/move",
+          "firstFrameSize": {
+            "width": 52,
+            "height": 41
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 736,
+          "sourceFrameCount": 20,
+          "frameCount": 20,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_king/attack",
+          "firstFrameSize": {
+            "width": 80,
+            "height": 59
+          },
+          "attackEventFrame": 12,
+          "attackEventTime": 0.45833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1118,
+          "sourceFrameCount": 57,
+          "frameCount": 57,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_king/death",
+          "firstFrameSize": {
+            "width": 57,
+            "height": 41
+          }
+        }
+      ],
+      "originalId": "hero_1119",
+      "displayName": "Player King"
+    },
+    {
+      "id": "enemy_orc_war_rider",
+      "controllerSymbol": 1123,
+      "slots": [
+        "four",
+        "three"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1143",
+        "1331",
+        "1369",
+        "1524",
+        "1593",
+        "1651",
+        "1679",
+        "1755",
+        "1796",
+        "2119"
+      ],
+      "levels": [
+        "level1",
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level9",
+        "level10",
+        "level11",
+        "level13",
+        "level15",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 979,
+          "sourceFrameCount": 37,
+          "frameCount": 37,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_orc_war_rider/move",
+          "firstFrameSize": {
+            "width": 59,
+            "height": 45
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1122,
+          "sourceFrameCount": 28,
+          "frameCount": 28,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_orc_war_rider/attack",
+          "firstFrameSize": {
+            "width": 64,
+            "height": 66
+          },
+          "attackEventFrame": 23,
+          "attackEventTime": 0.91667
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 808,
+          "sourceFrameCount": 21,
+          "frameCount": 21,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_orc_war_rider/death",
+          "firstFrameSize": {
+            "width": 62,
+            "height": 58
+          }
+        }
+      ],
+      "originalId": "unit_1123",
+      "displayName": "Enemy Orc War Rider"
+    },
+    {
+      "id": "enemy_orc_raider",
+      "controllerSymbol": 1142,
+      "slots": [
+        "one",
+        "two"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1143",
+        "1331",
+        "1369",
+        "1524",
+        "1593",
+        "1651",
+        "1679",
+        "1755",
+        "1796",
+        "2119"
+      ],
+      "levels": [
+        "level1",
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level9",
+        "level10",
+        "level11",
+        "level13",
+        "level15",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1137,
+          "sourceFrameCount": 37,
+          "frameCount": 37,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_orc_raider/move",
+          "firstFrameSize": {
+            "width": 56,
+            "height": 39
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1139,
+          "sourceFrameCount": 28,
+          "frameCount": 28,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_orc_raider/attack",
+          "firstFrameSize": {
+            "width": 60,
+            "height": 62
+          },
+          "attackEventFrame": 23,
+          "attackEventTime": 0.91667
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1141,
+          "sourceFrameCount": 21,
+          "frameCount": 21,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_orc_raider/death",
+          "firstFrameSize": {
+            "width": 61,
+            "height": 48
+          }
+        }
+      ],
+      "originalId": "unit_1142",
+      "displayName": "Enemy Orc Raider"
+    },
+    {
+      "id": "player_swordsman",
+      "controllerSymbol": 1238,
+      "slots": [
+        "one",
+        "two"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1241",
+        "1343",
+        "1397",
+        "1410",
+        "1438",
+        "1600",
+        "1707",
+        "1756",
+        "1769",
+        "1836",
+        "2030",
+        "2053",
+        "2120"
+      ],
+      "levels": [
+        "level1",
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level10",
+        "level11",
+        "level12",
+        "level13",
+        "level17",
+        "level18",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1230,
+          "sourceFrameCount": 12,
+          "frameCount": 12,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_swordsman/move",
+          "firstFrameSize": {
+            "width": 41,
+            "height": 35
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1232,
+          "sourceFrameCount": 30,
+          "frameCount": 30,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_swordsman/attack",
+          "firstFrameSize": {
+            "width": 45,
+            "height": 35
+          },
+          "attackEventFrame": 19,
+          "attackEventTime": 0.75
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1237,
+          "sourceFrameCount": 27,
+          "frameCount": 27,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_swordsman/death",
+          "firstFrameSize": {
+            "width": 51,
+            "height": 35
+          }
+        }
+      ],
+      "originalId": "unit_1238",
+      "displayName": "Player Swordsman"
+    },
+    {
+      "id": "player_knight",
+      "controllerSymbol": 1240,
+      "slots": [
+        "four",
+        "three"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1241",
+        "1343",
+        "1397",
+        "1410",
+        "1438",
+        "1600",
+        "1707",
+        "1756",
+        "1769",
+        "1836",
+        "1997",
+        "2030",
+        "2053",
+        "2120"
+      ],
+      "levels": [
+        "level1",
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level10",
+        "level11",
+        "level12",
+        "level13",
+        "level16",
+        "level17",
+        "level18",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1239,
+          "sourceFrameCount": 19,
+          "frameCount": 19,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_knight/move",
+          "firstFrameSize": {
+            "width": 57,
+            "height": 42
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 786,
+          "sourceFrameCount": 28,
+          "frameCount": 28,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_knight/attack",
+          "firstFrameSize": {
+            "width": 59,
+            "height": 58
+          },
+          "attackEventFrame": 23,
+          "attackEventTime": 0.91667
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 929,
+          "sourceFrameCount": 21,
+          "frameCount": 21,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_knight/death",
+          "firstFrameSize": {
+            "width": 66,
+            "height": 46
+          }
+        }
+      ],
+      "originalId": "unit_1240",
+      "displayName": "Player Knight"
+    },
+    {
+      "id": "enemy_dark_ranger",
+      "controllerSymbol": 1330,
+      "slots": [
+        "five",
+        "six"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1331",
+        "1369",
+        "1524",
+        "1593",
+        "1651",
+        "1679",
+        "1755",
+        "1796",
+        "2119"
+      ],
+      "levels": [
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level9",
+        "level10",
+        "level11",
+        "level13",
+        "level15",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1323,
+          "sourceFrameCount": 33,
+          "frameCount": 33,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_dark_ranger/move",
+          "firstFrameSize": {
+            "width": 39,
+            "height": 42
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1327,
+          "sourceFrameCount": 32,
+          "frameCount": 32,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_dark_ranger/attack",
+          "firstFrameSize": {
+            "width": 402,
+            "height": 46
+          },
+          "attackEventFrame": 19,
+          "attackEventTime": 0.75
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1329,
+          "sourceFrameCount": 26,
+          "frameCount": 26,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_dark_ranger/death",
+          "firstFrameSize": {
+            "width": 46,
+            "height": 46
+          }
+        }
+      ],
+      "originalId": "unit_1330",
+      "displayName": "Enemy Dark Ranger"
+    },
+    {
+      "id": "player_archer",
+      "controllerSymbol": 1342,
+      "slots": [
+        "five",
+        "six"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1343",
+        "1397",
+        "1410",
+        "1438",
+        "1600",
+        "2053",
+        "2120"
+      ],
+      "levels": [
+        "level2",
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level7",
+        "level8",
+        "level18",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1335,
+          "sourceFrameCount": 29,
+          "frameCount": 29,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_archer/move",
+          "firstFrameSize": {
+            "width": 39,
+            "height": 43
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1338,
+          "sourceFrameCount": 32,
+          "frameCount": 32,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_archer/attack",
+          "firstFrameSize": {
+            "width": 399,
+            "height": 46
+          },
+          "attackEventFrame": 18,
+          "attackEventTime": 0.70833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1341,
+          "sourceFrameCount": 26,
+          "frameCount": 26,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_archer/death",
+          "firstFrameSize": {
+            "width": 47,
+            "height": 45
+          }
+        }
+      ],
+      "originalId": "unit_1342",
+      "displayName": "Player Archer"
+    },
+    {
+      "id": "player_axeman",
+      "controllerSymbol": 1396,
+      "slots": [
+        "nine"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1397",
+        "1410",
+        "1438",
+        "1680",
+        "1707",
+        "1756",
+        "1769",
+        "1836",
+        "1873",
+        "1939",
+        "1997",
+        "2030",
+        "2053",
+        "2071",
+        "2120"
+      ],
+      "levels": [
+        "level3",
+        "level4",
+        "level5",
+        "level6",
+        "level9",
+        "level10",
+        "level11",
+        "level12",
+        "level13",
+        "level14",
+        "level15",
+        "level16",
+        "level17",
+        "level18",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1386,
+          "sourceFrameCount": 12,
+          "frameCount": 12,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_axeman/move",
+          "firstFrameSize": {
+            "width": 47,
+            "height": 40
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1387,
+          "sourceFrameCount": 30,
+          "frameCount": 30,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_axeman/attack",
+          "firstFrameSize": {
+            "width": 61,
+            "height": 52
+          },
+          "attackEventFrame": 25,
+          "attackEventTime": 1.0
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1395,
+          "sourceFrameCount": 61,
+          "frameCount": 61,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_axeman/death",
+          "firstFrameSize": {
+            "width": 54,
+            "height": 47
+          }
+        }
+      ],
+      "originalId": "unit_1396",
+      "displayName": "Player Axeman"
+    },
+    {
+      "id": "player_elven_archer",
+      "controllerSymbol": 1437,
+      "slots": [
+        "seven"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1438",
+        "1680",
+        "1707",
+        "1756",
+        "1769",
+        "1836",
+        "1873",
+        "1939",
+        "1997",
+        "2030",
+        "2071",
+        "2120"
+      ],
+      "levels": [
+        "level5",
+        "level6",
+        "level9",
+        "level10",
+        "level11",
+        "level12",
+        "level13",
+        "level14",
+        "level15",
+        "level16",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1433,
+          "sourceFrameCount": 29,
+          "frameCount": 29,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_elven_archer/move",
+          "firstFrameSize": {
+            "width": 66,
+            "height": 45
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1434,
+          "sourceFrameCount": 26,
+          "frameCount": 26,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_elven_archer/attack",
+          "firstFrameSize": {
+            "width": 64,
+            "height": 54
+          },
+          "attackEventFrame": 16,
+          "attackEventTime": 0.625
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1436,
+          "sourceFrameCount": 26,
+          "frameCount": 26,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_elven_archer/death",
+          "firstFrameSize": {
+            "width": 63,
+            "height": 76
+          }
+        }
+      ],
+      "originalId": "unit_1437",
+      "displayName": "Player Elven Archer"
+    },
+    {
+      "id": "enemy_shadow_mage",
+      "controllerSymbol": 1523,
+      "slots": [
+        "eight"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1524",
+        "1768",
+        "1796",
+        "2119"
+      ],
+      "levels": [
+        "level6",
+        "level12",
+        "level13",
+        "level15",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1485,
+          "sourceFrameCount": 29,
+          "frameCount": 29,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_shadow_mage/move",
+          "firstFrameSize": {
+            "width": 33,
+            "height": 40
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1513,
+          "sourceFrameCount": 45,
+          "frameCount": 45,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_shadow_mage/attack",
+          "firstFrameSize": {
+            "width": 37,
+            "height": 40
+          },
+          "attackEventFrame": 23,
+          "attackEventTime": 0.91667
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1522,
+          "sourceFrameCount": 20,
+          "frameCount": 20,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_shadow_mage/death",
+          "firstFrameSize": {
+            "width": 50,
+            "height": 39
+          }
+        }
+      ],
+      "originalId": "unit_1523",
+      "displayName": "Enemy Shadow Mage"
+    },
+    {
+      "id": "enemy_shaman",
+      "controllerSymbol": 1592,
+      "slots": [
+        "seven"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1593",
+        "1651",
+        "1679",
+        "1755",
+        "1796",
+        "2119"
+      ],
+      "levels": [
+        "level7",
+        "level8",
+        "level9",
+        "level10",
+        "level11",
+        "level13",
+        "level15",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1561,
+          "sourceFrameCount": 17,
+          "frameCount": 17,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_shaman/move",
+          "firstFrameSize": {
+            "width": 35,
+            "height": 43
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1582,
+          "sourceFrameCount": 75,
+          "frameCount": 75,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_shaman/attack",
+          "firstFrameSize": {
+            "width": 67,
+            "height": 45
+          },
+          "attackEventFrame": 42,
+          "attackEventTime": 1.70833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1591,
+          "sourceFrameCount": 12,
+          "frameCount": 12,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_shaman/death",
+          "firstFrameSize": {
+            "width": 125,
+            "height": 74
+          }
+        }
+      ],
+      "originalId": "unit_1592",
+      "displayName": "Enemy Shaman"
+    },
+    {
+      "id": "player_cavalry",
+      "controllerSymbol": 1599,
+      "slots": [
+        "twelve"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1600",
+        "1680",
+        "1707",
+        "1756",
+        "1769",
+        "1836",
+        "1873",
+        "1939",
+        "1997",
+        "2030",
+        "2071",
+        "2120"
+      ],
+      "levels": [
+        "level7",
+        "level8",
+        "level9",
+        "level10",
+        "level11",
+        "level12",
+        "level13",
+        "level14",
+        "level15",
+        "level16",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1594,
+          "sourceFrameCount": 25,
+          "frameCount": 25,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_cavalry/move",
+          "firstFrameSize": {
+            "width": 94,
+            "height": 88
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1595,
+          "sourceFrameCount": 38,
+          "frameCount": 38,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_cavalry/attack",
+          "firstFrameSize": {
+            "width": 108,
+            "height": 86
+          },
+          "attackEventFrame": 23,
+          "attackEventTime": 0.91667
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1598,
+          "sourceFrameCount": 26,
+          "frameCount": 26,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_cavalry/death",
+          "firstFrameSize": {
+            "width": 104,
+            "height": 94
+          }
+        }
+      ],
+      "originalId": "unit_1599",
+      "displayName": "Player Cavalry"
+    },
+    {
+      "id": "enemy_stone_golem",
+      "controllerSymbol": 1650,
+      "slots": [
+        "eleven"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1651",
+        "2052"
+      ],
+      "levels": [
+        "level8",
+        "level18"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1642,
+          "sourceFrameCount": 57,
+          "frameCount": 57,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_stone_golem/move",
+          "firstFrameSize": {
+            "width": 60,
+            "height": 76
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1644,
+          "sourceFrameCount": 44,
+          "frameCount": 44,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_stone_golem/attack",
+          "firstFrameSize": {
+            "width": 81,
+            "height": 76
+          },
+          "attackEventFrame": 42,
+          "attackEventTime": 1.70833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1649,
+          "sourceFrameCount": 24,
+          "frameCount": 24,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_stone_golem/death",
+          "firstFrameSize": {
+            "width": 123,
+            "height": 80
+          }
+        }
+      ],
+      "originalId": "unit_1650",
+      "displayName": "Enemy Stone Golem"
+    },
+    {
+      "id": "enemy_dark_knight",
+      "controllerSymbol": 1754,
+      "slots": [
+        "nine"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1755",
+        "1768",
+        "2119"
+      ],
+      "levels": [
+        "level11",
+        "level12",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1750,
+          "sourceFrameCount": 19,
+          "frameCount": 19,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_dark_knight/move",
+          "firstFrameSize": {
+            "width": 71,
+            "height": 50
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1751,
+          "sourceFrameCount": 20,
+          "frameCount": 20,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_dark_knight/attack",
+          "firstFrameSize": {
+            "width": 82,
+            "height": 84
+          },
+          "attackEventFrame": 12,
+          "attackEventTime": 0.45833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1753,
+          "sourceFrameCount": 21,
+          "frameCount": 21,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_dark_knight/death",
+          "firstFrameSize": {
+            "width": 82,
+            "height": 57
+          }
+        }
+      ],
+      "originalId": "unit_1754",
+      "displayName": "Enemy Dark Knight"
+    },
+    {
+      "id": "player_healer",
+      "controllerSymbol": 1835,
+      "slots": [
+        "eight"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1836",
+        "1873",
+        "1939",
+        "1997",
+        "2030",
+        "2071",
+        "2120"
+      ],
+      "levels": [
+        "level13",
+        "level14",
+        "level15",
+        "level16",
+        "level17",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1811,
+          "sourceFrameCount": 17,
+          "frameCount": 17,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_healer/move",
+          "firstFrameSize": {
+            "width": 29,
+            "height": 43
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1827,
+          "sourceFrameCount": 90,
+          "frameCount": 90,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_healer/attack",
+          "firstFrameSize": {
+            "width": 45,
+            "height": 50
+          },
+          "attackEventFrame": 77,
+          "attackEventTime": 3.16667
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1834,
+          "sourceFrameCount": 36,
+          "frameCount": 36,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_healer/death",
+          "firstFrameSize": {
+            "width": 73,
+            "height": 50
+          }
+        }
+      ],
+      "originalId": "unit_1835",
+      "displayName": "Player Healer"
+    },
+    {
+      "id": "enemy_red_dragon",
+      "controllerSymbol": 1871,
+      "slots": [
+        "thirteen"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1872"
+      ],
+      "levels": [
+        "level14"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1865,
+          "sourceFrameCount": 33,
+          "frameCount": 33,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_red_dragon/move",
+          "firstFrameSize": {
+            "width": 109,
+            "height": 67
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1867,
+          "sourceFrameCount": 70,
+          "frameCount": 70,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_red_dragon/attack",
+          "firstFrameSize": {
+            "width": 147,
+            "height": 115
+          },
+          "attackEventFrame": 42,
+          "attackEventTime": 1.70833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1870,
+          "sourceFrameCount": 42,
+          "frameCount": 42,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_red_dragon/death",
+          "firstFrameSize": {
+            "width": 111,
+            "height": 79
+          }
+        }
+      ],
+      "originalId": "unit_1871",
+      "displayName": "Enemy Red Dragon"
+    },
+    {
+      "id": "player_wizard",
+      "controllerSymbol": 1938,
+      "slots": [
+        "ten"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1939",
+        "1997",
+        "2071",
+        "2120"
+      ],
+      "levels": [
+        "level15",
+        "level16",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1912,
+          "sourceFrameCount": 17,
+          "frameCount": 17,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_wizard/move",
+          "firstFrameSize": {
+            "width": 37,
+            "height": 52
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1931,
+          "sourceFrameCount": 75,
+          "frameCount": 75,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_wizard/attack",
+          "firstFrameSize": {
+            "width": 68,
+            "height": 53
+          },
+          "attackEventFrame": 45,
+          "attackEventTime": 1.83333
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1937,
+          "sourceFrameCount": 12,
+          "frameCount": 12,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_wizard/death",
+          "firstFrameSize": {
+            "width": 125,
+            "height": 74
+          }
+        }
+      ],
+      "originalId": "unit_1938",
+      "displayName": "Player Wizard"
+    },
+    {
+      "id": "enemy_green_dragon",
+      "controllerSymbol": 1986,
+      "slots": [
+        "twelve"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "1987"
+      ],
+      "levels": [
+        "level16"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1982,
+          "sourceFrameCount": 33,
+          "frameCount": 33,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_green_dragon/move",
+          "firstFrameSize": {
+            "width": 106,
+            "height": 67
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1983,
+          "sourceFrameCount": 70,
+          "frameCount": 70,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_green_dragon/attack",
+          "firstFrameSize": {
+            "width": 147,
+            "height": 112
+          },
+          "attackEventFrame": 42,
+          "attackEventTime": 1.70833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1985,
+          "sourceFrameCount": 42,
+          "frameCount": 42,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_green_dragon/death",
+          "firstFrameSize": {
+            "width": 108,
+            "height": 77
+          }
+        }
+      ],
+      "originalId": "unit_1986",
+      "displayName": "Enemy Green Dragon"
+    },
+    {
+      "id": "player_griffin",
+      "controllerSymbol": 1996,
+      "slots": [
+        "eleven"
+      ],
+      "sides": [
+        "left"
+      ],
+      "containers": [
+        "1997",
+        "2071",
+        "2120"
+      ],
+      "levels": [
+        "level16",
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 1988,
+          "sourceFrameCount": 33,
+          "frameCount": 33,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_griffin/move",
+          "firstFrameSize": {
+            "width": 110,
+            "height": 68
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 1991,
+          "sourceFrameCount": 30,
+          "frameCount": 30,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_griffin/attack",
+          "firstFrameSize": {
+            "width": 136,
+            "height": 89
+          },
+          "attackEventFrame": 16,
+          "attackEventTime": 0.625
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 1995,
+          "sourceFrameCount": 41,
+          "frameCount": 41,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/player_griffin/death",
+          "firstFrameSize": {
+            "width": 128,
+            "height": 95
+          }
+        }
+      ],
+      "originalId": "unit_1996",
+      "displayName": "Player Griffin"
+    },
+    {
+      "id": "enemy_black_dragon",
+      "controllerSymbol": 2069,
+      "slots": [
+        "ten"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "2070"
+      ],
+      "levels": [
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 2065,
+          "sourceFrameCount": 33,
+          "frameCount": 33,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_black_dragon/move",
+          "firstFrameSize": {
+            "width": 109,
+            "height": 67
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 2066,
+          "sourceFrameCount": 70,
+          "frameCount": 70,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_black_dragon/attack",
+          "firstFrameSize": {
+            "width": 147,
+            "height": 115
+          },
+          "attackEventFrame": 42,
+          "attackEventTime": 1.70833
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 2068,
+          "sourceFrameCount": 42,
+          "frameCount": 42,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_black_dragon/death",
+          "firstFrameSize": {
+            "width": 111,
+            "height": 79
+          }
+        }
+      ],
+      "originalId": "unit_2069",
+      "displayName": "Enemy Black Dragon"
+    },
+    {
+      "id": "enemy_fire_golem",
+      "controllerSymbol": 2118,
+      "slots": [
+        "thirteen"
+      ],
+      "sides": [
+        "right"
+      ],
+      "containers": [
+        "2119"
+      ],
+      "levels": [
+        "level19"
+      ],
+      "states": [
+        {
+          "name": "move",
+          "sourceSymbol": 2112,
+          "sourceFrameCount": 57,
+          "frameCount": 57,
+          "frameRate": 24.0,
+          "loop": true,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_fire_golem/move",
+          "firstFrameSize": {
+            "width": 74,
+            "height": 104
+          }
+        },
+        {
+          "name": "attack",
+          "sourceSymbol": 2113,
+          "sourceFrameCount": 44,
+          "frameCount": 44,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_fire_golem/attack",
+          "firstFrameSize": {
+            "width": 107,
+            "height": 110
+          },
+          "attackEventFrame": 25,
+          "attackEventTime": 1.0
+        },
+        {
+          "name": "death",
+          "sourceSymbol": 2117,
+          "sourceFrameCount": 24,
+          "frameCount": 24,
+          "frameRate": 24.0,
+          "loop": false,
+          "resourcePath": "OriginalPrince/ExtractedAnimations/Units/enemy_fire_golem/death",
+          "firstFrameSize": {
+            "width": 149,
+            "height": 116
+          }
+        }
+      ],
+      "originalId": "unit_2118",
+      "displayName": "Enemy Fire Golem"
+    }
+  ]
+}

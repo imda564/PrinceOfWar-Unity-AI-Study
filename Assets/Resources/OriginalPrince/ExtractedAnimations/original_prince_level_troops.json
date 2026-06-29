@@ -1,0 +1,2224 @@
+{
+  "levels": [
+    {
+      "label": "level1",
+      "rootFrame": 9,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1241,
+      "rightTroopsSymbol": 1143,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 10,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 1,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 4,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 7,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        }
+      ]
+    },
+    {
+      "label": "level2",
+      "rootFrame": 12,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1343,
+      "rightTroopsSymbol": 1331,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 10,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 17,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 19,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 1,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 3,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 6,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 12,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 20,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level3",
+      "rootFrame": 15,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1397,
+      "rightTroopsSymbol": 1369,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 14,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 18,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 1,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 3,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 6,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 12,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 20,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level4",
+      "rootFrame": 18,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1410,
+      "rightTroopsSymbol": 1369,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 14,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 18,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 23,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 25,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 1,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 3,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 6,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 12,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 20,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level5",
+      "rootFrame": 21,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1438,
+      "rightTroopsSymbol": 1369,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 14,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 18,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 23,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 25,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 28,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 1,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 3,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 6,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 12,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 20,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level6",
+      "rootFrame": 24,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1438,
+      "rightTroopsSymbol": 1524,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 14,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 18,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 23,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 25,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 28,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 1,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 3,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1523,
+          "unitId": "enemy_shadow_mage",
+          "depth": 23,
+          "originalId": "unit_1523",
+          "displayName": "Enemy Shadow Mage"
+        }
+      ]
+    },
+    {
+      "label": "level7",
+      "rootFrame": 27,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1600,
+      "rightTroopsSymbol": 1593,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 14,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 20,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 22,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 27,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 17,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level8",
+      "rootFrame": 30,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1600,
+      "rightTroopsSymbol": 1651,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 1,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 4,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 7,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 14,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 20,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 22,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 27,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "eleven",
+          "controllerSymbol": 1650,
+          "unitId": "enemy_stone_golem",
+          "depth": 1,
+          "originalId": "unit_1650",
+          "displayName": "Enemy Stone Golem"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 4,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 7,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 9,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 15,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 18,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 30,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level9",
+      "rootFrame": 33,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1680,
+      "rightTroopsSymbol": 1679,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 1,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 5,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 10,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 25,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level10",
+      "rootFrame": 36,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1707,
+      "rightTroopsSymbol": 1679,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 1,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 8,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 13,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 17,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 20,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 23,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 26,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 25,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level11",
+      "rootFrame": 39,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1756,
+      "rightTroopsSymbol": 1755,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 1,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 8,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 13,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 17,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 20,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 23,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 26,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1754,
+          "unitId": "enemy_dark_knight",
+          "depth": 17,
+          "originalId": "unit_1754",
+          "displayName": "Enemy Dark Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 30,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level12",
+      "rootFrame": 42,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1769,
+      "rightTroopsSymbol": 1768,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 1,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 8,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 13,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 17,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 20,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 23,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 26,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "eight",
+          "controllerSymbol": 1523,
+          "unitId": "enemy_shadow_mage",
+          "depth": 5,
+          "originalId": "unit_1523",
+          "displayName": "Enemy Shadow Mage"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1754,
+          "unitId": "enemy_dark_knight",
+          "depth": 8,
+          "originalId": "unit_1754",
+          "displayName": "Enemy Dark Knight"
+        }
+      ]
+    },
+    {
+      "label": "level13",
+      "rootFrame": 45,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1836,
+      "rightTroopsSymbol": 1796,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 1,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 8,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 13,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 17,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 20,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 23,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 26,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 31,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1523,
+          "unitId": "enemy_shadow_mage",
+          "depth": 17,
+          "originalId": "unit_1523",
+          "displayName": "Enemy Shadow Mage"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 30,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level14",
+      "rootFrame": 48,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1873,
+      "rightTroopsSymbol": 1872,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 5,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 9,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 12,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 15,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "thirteen",
+          "controllerSymbol": 1871,
+          "unitId": "enemy_red_dragon",
+          "depth": 1,
+          "originalId": "unit_1871",
+          "displayName": "Enemy Red Dragon"
+        }
+      ]
+    },
+    {
+      "label": "level15",
+      "rootFrame": 51,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1939,
+      "rightTroopsSymbol": 1796,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 5,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 9,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 12,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 15,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        },
+        {
+          "slot": "ten",
+          "controllerSymbol": 1938,
+          "unitId": "player_wizard",
+          "depth": 20,
+          "originalId": "unit_1938",
+          "displayName": "Player Wizard"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1523,
+          "unitId": "enemy_shadow_mage",
+          "depth": 17,
+          "originalId": "unit_1523",
+          "displayName": "Enemy Shadow Mage"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 30,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level16",
+      "rootFrame": 54,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 1997,
+      "rightTroopsSymbol": 1987,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 5,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 9,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 12,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 15,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        },
+        {
+          "slot": "ten",
+          "controllerSymbol": 1938,
+          "unitId": "player_wizard",
+          "depth": 20,
+          "originalId": "unit_1938",
+          "displayName": "Player Wizard"
+        },
+        {
+          "slot": "eleven",
+          "controllerSymbol": 1996,
+          "unitId": "player_griffin",
+          "depth": 25,
+          "originalId": "unit_1996",
+          "displayName": "Player Griffin"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 30,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 35,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1986,
+          "unitId": "enemy_green_dragon",
+          "depth": 1,
+          "originalId": "unit_1986",
+          "displayName": "Enemy Green Dragon"
+        }
+      ]
+    },
+    {
+      "label": "level17",
+      "rootFrame": 57,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 2030,
+      "rightTroopsSymbol": 1796,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 5,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 9,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 12,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 15,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 20,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 25,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 28,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 31,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1523,
+          "unitId": "enemy_shadow_mage",
+          "depth": 17,
+          "originalId": "unit_1523",
+          "displayName": "Enemy Shadow Mage"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 30,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    },
+    {
+      "label": "level18",
+      "rootFrame": 60,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 2053,
+      "rightTroopsSymbol": 2052,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 1,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 6,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 9,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 12,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 17,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 21,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 25,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "eleven",
+          "controllerSymbol": 1650,
+          "unitId": "enemy_stone_golem",
+          "depth": 3,
+          "originalId": "unit_1650",
+          "displayName": "Enemy Stone Golem"
+        }
+      ]
+    },
+    {
+      "label": "level19",
+      "rootFrame": 63,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 2071,
+      "rightTroopsSymbol": 2070,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 5,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 9,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 12,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 15,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        },
+        {
+          "slot": "ten",
+          "controllerSymbol": 1938,
+          "unitId": "player_wizard",
+          "depth": 20,
+          "originalId": "unit_1938",
+          "displayName": "Player Wizard"
+        },
+        {
+          "slot": "eleven",
+          "controllerSymbol": 1996,
+          "unitId": "player_griffin",
+          "depth": 25,
+          "originalId": "unit_1996",
+          "displayName": "Player Griffin"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "ten",
+          "controllerSymbol": 2069,
+          "unitId": "enemy_black_dragon",
+          "depth": 1,
+          "originalId": "unit_2069",
+          "displayName": "Enemy Black Dragon"
+        }
+      ]
+    },
+    {
+      "label": "level19",
+      "rootFrame": 66,
+      "heroSymbol": 1119,
+      "leftTroopsSymbol": 2120,
+      "rightTroopsSymbol": 2119,
+      "hudSymbol": 1209,
+      "moneybarSymbol": 1274,
+      "leftUnits": [
+        {
+          "slot": "twelve",
+          "controllerSymbol": 1599,
+          "unitId": "player_cavalry",
+          "depth": 5,
+          "originalId": "unit_1599",
+          "displayName": "Player Cavalry"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1396,
+          "unitId": "player_axeman",
+          "depth": 9,
+          "originalId": "unit_1396",
+          "displayName": "Player Axeman"
+        },
+        {
+          "slot": "seven",
+          "controllerSymbol": 1437,
+          "unitId": "player_elven_archer",
+          "depth": 12,
+          "originalId": "unit_1437",
+          "displayName": "Player Elven Archer"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1835,
+          "unitId": "player_healer",
+          "depth": 15,
+          "originalId": "unit_1835",
+          "displayName": "Player Healer"
+        },
+        {
+          "slot": "ten",
+          "controllerSymbol": 1938,
+          "unitId": "player_wizard",
+          "depth": 20,
+          "originalId": "unit_1938",
+          "displayName": "Player Wizard"
+        },
+        {
+          "slot": "eleven",
+          "controllerSymbol": 1996,
+          "unitId": "player_griffin",
+          "depth": 25,
+          "originalId": "unit_1996",
+          "displayName": "Player Griffin"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 30,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1240,
+          "unitId": "player_knight",
+          "depth": 35,
+          "originalId": "unit_1240",
+          "displayName": "Player Knight"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 38,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 40,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1238,
+          "unitId": "player_swordsman",
+          "depth": 43,
+          "originalId": "unit_1238",
+          "displayName": "Player Swordsman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1342,
+          "unitId": "player_archer",
+          "depth": 46,
+          "originalId": "unit_1342",
+          "displayName": "Player Archer"
+        }
+      ],
+      "rightUnits": [
+        {
+          "slot": "seven",
+          "controllerSymbol": 1592,
+          "unitId": "enemy_shaman",
+          "depth": 1,
+          "originalId": "unit_1592",
+          "displayName": "Enemy Shaman"
+        },
+        {
+          "slot": "six",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 4,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "three",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 6,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        },
+        {
+          "slot": "two",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 9,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "one",
+          "controllerSymbol": 1142,
+          "unitId": "enemy_orc_raider",
+          "depth": 12,
+          "originalId": "unit_1142",
+          "displayName": "Enemy Orc Raider"
+        },
+        {
+          "slot": "five",
+          "controllerSymbol": 1330,
+          "unitId": "enemy_dark_ranger",
+          "depth": 15,
+          "originalId": "unit_1330",
+          "displayName": "Enemy Dark Ranger"
+        },
+        {
+          "slot": "eight",
+          "controllerSymbol": 1523,
+          "unitId": "enemy_shadow_mage",
+          "depth": 17,
+          "originalId": "unit_1523",
+          "displayName": "Enemy Shadow Mage"
+        },
+        {
+          "slot": "nine",
+          "controllerSymbol": 1754,
+          "unitId": "enemy_dark_knight",
+          "depth": 20,
+          "originalId": "unit_1754",
+          "displayName": "Enemy Dark Knight"
+        },
+        {
+          "slot": "thirteen",
+          "controllerSymbol": 2118,
+          "unitId": "enemy_fire_golem",
+          "depth": 33,
+          "originalId": "unit_2118",
+          "displayName": "Enemy Fire Golem"
+        },
+        {
+          "slot": "four",
+          "controllerSymbol": 1123,
+          "unitId": "enemy_orc_war_rider",
+          "depth": 39,
+          "originalId": "unit_1123",
+          "displayName": "Enemy Orc War Rider"
+        }
+      ]
+    }
+  ]
+}

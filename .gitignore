@@ -1,0 +1,49 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity memory captures and crash dumps
+[Mm]emoryCaptures/
+Recordings/
+*.stackdump
+sysinfo.txt
+
+# Unity generated project files
+*.csproj
+*.sln
+*.sln.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.user
+*.userprefs
+
+# IDE/editor folders
+.vs/
+.vscode/
+.idea/
+.vsconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local build outputs
+pack/
+pack.zip
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+
+# Local/reference data that is not required to open the Unity project
+Original Prince of war/
+ai_dataset/
+game-info.html
