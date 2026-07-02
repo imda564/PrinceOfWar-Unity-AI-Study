@@ -28,6 +28,7 @@ sysinfo.txt
 .vscode/
 .idea/
 .vsconfig
+.am/
 
 # OS files
 .DS_Store
@@ -37,6 +38,7 @@ Desktop.ini
 # Local build outputs
 pack/
 pack.zip
+*.zip
 *.apk
 *.aab
 *.ipa
@@ -47,3 +49,4 @@ pack.zip
 Original Prince of war/
 ai_dataset/
 game-info.html
+*.bak
