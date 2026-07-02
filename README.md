@@ -14,6 +14,35 @@ This repository is published as an educational and non-commercial study project.
 - Extracted sprite and animation resources organized for Unity
 - URP 2D project setup
 
+## Playable Build
+
+Download the Windows build from the latest pre-release:
+
+- [Download `pack.zip`](https://github.com/imda564/PrinceOfWar-Unity-AI-Study/releases/download/0.1.0/pack.zip)
+- [Release page](https://github.com/imda564/PrinceOfWar-Unity-AI-Study/releases/tag/0.1.0)
+
+### How to Play
+
+1. Download `pack.zip`.
+2. Extract the zip file.
+3. Run `Prince of war.exe`.
+
+The objective is to escort at least one allied unit into the enemy gate while protecting your morale. Gold increases over time and is spent to recruit units or heal the hero.
+
+### Controls
+
+| Situation | Control |
+| --- | --- |
+| Main menu | `Enter` / `Space` to continue |
+| Main menu | `S` for stage select, `O` for options, `C` for credits |
+| Stage select | Click a stage card, or press `0` for Meteor Test and `1`-`9` for quick stage selection |
+| Battle | `WASD` / Arrow keys to move the hero |
+| Battle | `Space` / Left mouse button to attack |
+| Battle | `Shift` to heal the hero, costs 25 gold |
+| Battle | Click recruit buttons or press `1`-`9` to summon allied units |
+| Battle | `Esc` to pause or resume |
+| Result screen | `Enter` for next stage after clearing, `R` to restart, `Esc` to return to stage select |
+
 ### Educational Notice
 
 This project is for learning, research, and portfolio study purposes only. It is not intended for commercial release or redistribution as an official product. Some visual references and extracted resources are used only to study how a similar game structure can be rebuilt in Unity.
@@ -31,6 +60,35 @@ This project is for learning, research, and portfolio study purposes only. It is
 - 기본 전투와 웨이브 진행
 - Unity에서 사용할 수 있도록 정리된 스프라이트 및 애니메이션 리소스
 - URP 2D 프로젝트 설정
+
+## 플레이 가능한 빌드
+
+Windows 실행 빌드는 아래 pre-release에서 받을 수 있습니다.
+
+- [`pack.zip` 다운로드](https://github.com/imda564/PrinceOfWar-Unity-AI-Study/releases/download/0.1.0/pack.zip)
+- [릴리즈 페이지](https://github.com/imda564/PrinceOfWar-Unity-AI-Study/releases/tag/0.1.0)
+
+### 실행 방법
+
+1. `pack.zip`을 다운로드합니다.
+2. 압축을 풉니다.
+3. `Prince of war.exe`를 실행합니다.
+
+목표는 아군 유닛을 적 성문까지 호위하는 것입니다. 사기가 0이 되지 않게 버티면서, 시간이 지날 때마다 들어오는 골드로 유닛을 소환하거나 영웅을 회복시키면 됩니다.
+
+### 조작키
+
+| 상황 | 조작 |
+| --- | --- |
+| 메인 메뉴 | `Enter` / `Space`로 이어하기 |
+| 메인 메뉴 | `S` 스테이지 선택, `O` 옵션, `C` 크레딧 |
+| 스테이지 선택 | 스테이지 카드를 클릭하거나 `0`으로 Meteor Test, `1`-`9`로 빠른 선택 |
+| 전투 | `WASD` / 방향키로 영웅 이동 |
+| 전투 | `Space` / 마우스 왼쪽 버튼으로 공격 |
+| 전투 | `Shift`로 영웅 회복, 골드 25 소모 |
+| 전투 | 하단 유닛 버튼 클릭 또는 `1`-`9`로 아군 소환 |
+| 전투 | `Esc`로 일시정지 또는 재개 |
+| 결과 화면 | 클리어 후 `Enter` 다음 스테이지, `R` 재시작, `Esc` 스테이지 선택 |
 
 ### 학습 목적 안내
 
