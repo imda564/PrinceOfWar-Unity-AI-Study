@@ -38,7 +38,7 @@ This project is for learning, research, and portfolio study purposes only. It is
 
 ## Unity Version
 
-Open with Unity `6000.3.10f1` or a compatible Unity 6 editor.
+Open with Unity `6000.4.9f1` or a compatible Unity 6 editor.
 
 ## Repository Contents
 
